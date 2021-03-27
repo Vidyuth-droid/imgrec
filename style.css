@@ -1,0 +1,16 @@
+body{
+    background-color: goldenrod;
+    color: rgb(96, 223, 255);
+}
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+#camera{
+    border: 2px dashed blanchedalmond;
+    width: 350px;
+    height: 300px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color: rgb(155, 73, 73);
+}
